@@ -11,6 +11,7 @@ install requires:
 
  - 'scipy >= 0.7.0'
  - 'six >= 1.2.0'
+ - 'gensim'
 
   [1]: https://github.com/piskvorky/gensim
 
